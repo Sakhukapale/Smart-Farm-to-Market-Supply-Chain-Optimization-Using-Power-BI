@@ -52,7 +52,7 @@ The dashboard provides interactive visualizations and KPI analysis to support da
 
 # 📂 Project Structure
 
-```text
+
 Smart-Farm-to-Market-Supply-Chain-Optimization/
 │
 ├── SupplyChainDashboard.pbix
@@ -62,7 +62,7 @@ Smart-Farm-to-Market-Supply-Chain-Optimization/
 └── README.md
 
 
-# KPIs Analyzed
+## KPIs Analyzed
 
 Total Revenue
 Crop Loss Percentage
