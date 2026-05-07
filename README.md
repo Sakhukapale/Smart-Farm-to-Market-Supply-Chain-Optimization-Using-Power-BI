@@ -93,36 +93,30 @@ Business Insights & Recommendations
 # Dashboard
 
 Project Overview Dashboard
-<img width="676" height="123" alt="image" src="https://github.com/user-attachments/assets/3dad53c3-abfe-4a9e-95a9-a351a6d2fd7e" />
+<img width="1029" height="575" alt="Screenshot 2026-01-15 105841" src="https://github.com/user-attachments/assets/a698db20-24ff-4316-b872-8be091208ae3" />
+
 
 Executive Overview
-<img width="965" height="123" alt="image" src="https://github.com/user-attachments/assets/a1e45ea7-3874-4009-b455-c82985046d03" />
+<img width="1022" height="577" alt="Screenshot 2026-01-15 105942" src="https://github.com/user-attachments/assets/8f80ecc6-6539-42ad-9c95-d5c4a3332420" />
+
 
 Loss Analysis
-<img width="496" height="123" alt="image" src="https://github.com/user-attachments/assets/43fa3b61-ac62-40d0-9577-63968129db24" />
+<img width="1023" height="577" alt="Screenshot 2026-01-15 110011" src="https://github.com/user-attachments/assets/eb4a8f46-b319-422f-a507-368dcc8ea7f9" />
+
 
 Market & Revenue Analysis
-<img width="925" height="123" alt="image" src="https://github.com/user-attachments/assets/a57d7f2f-ec2c-4472-ba83-ed0dc7cb3389" />
+<img width="1019" height="571" alt="Screenshot 2026-01-15 110405" src="https://github.com/user-attachments/assets/4a249eba-f586-4c82-bd7d-7cc8854511cf" />
+
 
 Risk, Insurance & Efficiency
-<img width="926" height="123" alt="image" src="https://github.com/user-attachments/assets/b437384b-55a3-476b-93a3-4e614acbc012" />
+<img width="1016" height="570" alt="Screenshot 2026-01-15 110443" src="https://github.com/user-attachments/assets/2d79b24a-1690-4048-8248-f7efaae530f1" />
+
 
 Key Insights & Recommendations
-<img width="1058" height="123" alt="image" src="https://github.com/user-attachments/assets/0ade5ab4-f312-4084-884b-592ae9a4902c" />
+<img width="1025" height="569" alt="Screenshot 2026-01-15 110512" src="https://github.com/user-attachments/assets/dabddbeb-1134-4b35-afb1-e19fd87b2371" />
 
-<img width="925" height="123" alt="image" src="https://github.com/user-attachments/assets/d18e9eaf-01e5-4197-947e-f90db9463e34" />
 
-<img width="1382" height="680" alt="image" src="https://github.com/user-attachments/assets/46a4bf5b-990b-4598-8853-9dc3e7d4494b" />
 
-<img width="1022" height="577" alt="Screenshot 2026-01-15 105942" src="https://github.com/user-attachments/assets/14b30704-2c47-408e-99d4-039541e8b5a1" />
-
-<img width="1023" height="577" alt="Screenshot 2026-01-15 110011" src="https://github.com/user-attachments/assets/0292c9d7-20f4-46cb-9000-32a67e150d77" />
-
-<img width="1019" height="571" alt="Screenshot 2026-01-15 110405" src="https://github.com/user-attachments/assets/ea68c790-1b77-4f16-a25e-717b6af61cd4" />
-
-<img width="1016" height="570" alt="Screenshot 2026-01-15 110443" src="https://github.com/user-attachments/assets/b6e2d8fd-38e4-4f02-9070-c15aa835a33b" />
-
-<img width="1025" height="569" alt="Screenshot 2026-01-15 110512" src="https://github.com/user-attachments/assets/e1b53cc4-582a-4e77-8e6f-048f1e8e2d4a" />
 
 # Business Insights
 
