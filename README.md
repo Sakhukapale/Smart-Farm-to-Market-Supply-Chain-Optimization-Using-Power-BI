@@ -52,7 +52,7 @@ The dashboard provides interactive visualizations and KPI analysis to support da
 
 # 📂 Project Structure
 
-
+'''text
 Smart-Farm-to-Market-Supply-Chain-Optimization/
 │
 ├── SupplyChainDashboard.pbix
@@ -60,21 +60,21 @@ Smart-Farm-to-Market-Supply-Chain-Optimization/
 ├── Dataset.csv
 ├── powerpi project presentation
 └── README.md
+'''
 
+# KPIs Analyzed
 
-## KPIs Analyzed
-
-Total Revenue
-Crop Loss Percentage
-Transportation Cost
-Warehouse Utilization
-Delivery Performance
-Insurance Coverage
-Market Demand Trends
-Profitability Analysis
+- Total Revenue
+- Crop Loss Percentage
+- Transportation Cost
+- Warehouse Utilization
+- Delivery Performance
+- Insurance Coverage
+- Market Demand Trends
+- Profitability Analysis
 
 # Workflow
-
+'''text
 Data Collection
       ↓
 Data Cleaning & Transformation
@@ -88,8 +88,29 @@ Dashboard Development
 Data Visualization
       ↓
 Business Insights & Recommendations
+'''
 
 # Dashboard
+
+Project Overview Dashboard
+<img width="676" height="123" alt="image" src="https://github.com/user-attachments/assets/3dad53c3-abfe-4a9e-95a9-a351a6d2fd7e" />
+
+Executive Overview
+<img width="965" height="123" alt="image" src="https://github.com/user-attachments/assets/a1e45ea7-3874-4009-b455-c82985046d03" />
+
+Loss Analysis
+<img width="496" height="123" alt="image" src="https://github.com/user-attachments/assets/43fa3b61-ac62-40d0-9577-63968129db24" />
+
+Market & Revenue Analysis
+<img width="925" height="123" alt="image" src="https://github.com/user-attachments/assets/a57d7f2f-ec2c-4472-ba83-ed0dc7cb3389" />
+
+Risk, Insurance & Efficiency
+<img width="926" height="123" alt="image" src="https://github.com/user-attachments/assets/b437384b-55a3-476b-93a3-4e614acbc012" />
+
+Key Insights & Recommendations
+<img width="1058" height="123" alt="image" src="https://github.com/user-attachments/assets/0ade5ab4-f312-4084-884b-592ae9a4902c" />
+
+<img width="925" height="123" alt="image" src="https://github.com/user-attachments/assets/d18e9eaf-01e5-4197-947e-f90db9463e34" />
 
 <img width="1382" height="680" alt="image" src="https://github.com/user-attachments/assets/46a4bf5b-990b-4598-8853-9dc3e7d4494b" />
 
